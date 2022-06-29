@@ -8,6 +8,6 @@ This is an introductory project to NEAR, creating a smart contract with the NEAR
 
 
 ---
-Click [here](https://jess-dam.github.io/near-hello-world-app) to find the GitHub Page where this project is hosted  
+Click [here](https://jess-dam.github.io/near-hello-world-app) to find the GitHub Page where this project is hosted. Also see [here](https://github.com/jess-dam/near-hello-world-contract) for the rust implementation of the contract 
 
 <img src="https://user-images.githubusercontent.com/33174730/176561287-8182e79d-979f-4744-ac13-3bc35f606c4d.gif" width="700" />
